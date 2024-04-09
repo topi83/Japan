@@ -1,0 +1,30 @@
+.arnyek{
+    box-shadow: 5px 5px 5px;
+}
+
+.w-100{
+    width: 100%!important;
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+}
+.etel{
+    width: 500px;
+    height: 400px;
+}
+body{
+    background-image:url(kepek/hatter.jpg);
+    background-size: cover;
+}
+.gif{
+    width: 597px;
+    height: 400px;
+}
+#list{
+    font-size: 1em;
+	text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-weight: bold;
+     font-size: x-large;
+    color: rgb(255, 255, 255);
+}
